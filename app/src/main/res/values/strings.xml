@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Aishwar_Gupta_App</string>
+    <string name="Intro_text">Hello World! My Name is Aishwar Gupta and my major is Computer Engineering. I want to learn Android App development.</string>
+    <string name="Button_text">Say Hello</string>
+</resources>
